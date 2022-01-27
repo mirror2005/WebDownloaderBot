@@ -26,7 +26,8 @@ for ex: 'https://www.google.com'
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Source Code', url='https://github.com/samadii/WebDownloaderBot'),
+        InlineKeyboardButton('Channel', url='https://t.me/jetbots'),
+        InlineKeyboardButton('Developer', url='https://t.me/jettastic'),
         ]]
     )
 
